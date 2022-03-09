@@ -7,3 +7,6 @@ Randomly pick characters from our all possibilities and generate a string of the
 
 Real World Applications - 
 OTPs are widely used in websites like- Facebook, Google Sign-in, Wifi – accessing, Railways Portal Login etc.
+
+<img width="557" alt="Screenshot 2022-03-10 at 5 28 42 AM" src="https://user-images.githubusercontent.com/72271841/157559861-598a8a09-5956-4483-b324-e2c10445e578.png">
+<img width="513" alt="Screenshot 2022-03-10 at 5 29 01 AM" src="https://user-images.githubusercontent.com/72271841/157559872-7c6bb26d-84f9-44ce-80cf-1d53184f249e.png">
